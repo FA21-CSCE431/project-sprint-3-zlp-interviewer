@@ -2,7 +2,7 @@
 
 ## Introduction ##
 
-The zlp interviewer is an application that the Zachry Leadership Program can use as a way to schedule interviews. The admin can create a schedule which inlcudes day range, time range, length of interview, number of rooms, and breaks after certain number of interviews. Once the schedule is created, the candidates can use the application to pick time slots for interviews. Our application allows for only certain number of candiates, which is determined by the admin, per time slot. The admin can generate a csv file which has details of all the interviews scheduled and they will also recieve an email with interview details whenever a candidate signs up for a time slot.
+The zlp interviewer is an application that the Zachry Leadership Program can use as a way to schedule interviews. The admin can create a schedule which includes day range, time range, length of interview, number of rooms, and breaks after certain number of interviews. Once the schedule is created, the candidates can use the application to pick time slots for interviews. Our application allows for only certain number of candiates, which is determined by the admin, per time slot. The admin can generate a csv file which has details of all the interviews scheduled and they will also recieve an email with interview details whenever a candidate signs up for a time slot.
 
 ## Requirements ##
 
