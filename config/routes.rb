@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   root 'users#index'
+    
   resources :admins do
     member do 
       get :get_dates
